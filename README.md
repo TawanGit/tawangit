@@ -5,4 +5,6 @@ Currently, I'm diving deep into the world of Java and AWS, focusing on backend a
 
 On the frontend, I enjoy crafting pixel-perfect interfaces with smooth UX, transforming designs into fast, accessible experiences that just feel right.
 
+i really like lofi while coding 
+
 Let’s build something awesome together!
