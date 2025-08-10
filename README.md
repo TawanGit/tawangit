@@ -1,8 +1,8 @@
-Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-I’m Thiago Tawan, a full stack engineer based in Brazil 🇧🇷 — passionate about building clean, scalable, and modern applications.
+Oi! 👋
+Sou Thiago Tawan, desenvolvedor full stack  no Brasil 🇧🇷 — apaixonado por criar aplicações limpas, escaláveis e modernas.
 
-Currently, I'm diving deep into the world of Java and AWS, focusing on backend architecture, cloud-native development, and distributed systems. I believe that great software is not only about code, but about solving real problems with performance and reliability.
+Atualmente, estou me aprofundando no mundo de Java e AWS, com foco em arquitetura backend, desenvolvimento cloud-native e sistemas distribuídos. Acredito que um ótimo software não é apenas sobre escrever código, mas sim sobre resolver problemas reais com desempenho e confiabilidade.
 
-On the frontend, I enjoy crafting pixel-perfect interfaces with smooth UX, transforming designs into fast, accessible experiences that just feel right.
+No frontend, gosto de criar interfaces pixel-perfect com uma experiência de usuário fluida, transformando designs em experiências rápidas, acessíveis e que simplesmente funcionam da maneira certa.
 
-Let’s build something awesome together!
+Vamos construir algo incrível juntos! 🚀
